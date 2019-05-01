@@ -1,0 +1,20 @@
+﻿  work.cpp
+work.cpp(17): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+work.cpp(135): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+work.cpp(136): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+work.cpp(154): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+work.cpp(364): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+work.cpp(365): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+work.cpp(366): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+work.cpp(421): warning C4018: “<”: 有符号/无符号不匹配
+work.cpp(424): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+work.cpp(426): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+work.cpp(447): warning C4018: “<”: 有符号/无符号不匹配
+work.cpp(624): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 435 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Car.vcxproj -> C:\Users\wangshuang\Desktop\Car\Release\Car.exe
+  Car.vcxproj -> C:\Users\wangshuang\Desktop\Car\Release\Car.pdb (Full PDB)
